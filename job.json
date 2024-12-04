@@ -1,0 +1,281 @@
+{
+    "files": [
+        {
+            "input": "sand.png",
+            "output": "g_bch.dds"
+        },
+        {
+            "input": "sand.png",
+            "output": "g_beach_wet.dds"
+        },
+        {
+            "input": "sand.png",
+            "output": "g_gravel_wet.dds"
+        },
+        {
+            "input": "sand.png",
+            "output": "g_rock_wet.dds"
+        },
+        {
+            "input": "sand.png",
+            "output": "g_ice_beach.dds"
+        },
+        {
+            "input": "sand.png",
+            "output": "g_bc2.dds"
+        },
+        {
+            "input": "sand.png",
+            "output": "g_beach_wet.dds"
+        },
+        {
+            "input": "sand.png",
+            "output": "g_gravel_wet.dds"
+        },
+        {
+            "input": "sand.png",
+            "output": "g_rock_wet.dds"
+        },
+        {
+            "input": "sand.png",
+            "output": "g_bc3.dds"
+        },
+        {
+            "input": "sand.png",
+            "output": "g_bc4.dds"
+        },
+        {
+            "input": "sand.png",
+            "output": "g_pal1.dds"
+        },
+        {
+            "input": "sand.png",
+            "output": "g_qs.dds"
+        },
+        {
+            "input": "sand.png",
+            "output": "g_pal.dds"
+        },
+        {
+            "input": "dirt.png",
+            "output": "g_des.dds"
+        },
+        {
+            "input": "dirt.png",
+            "output": "g_ds2.dds"
+        },
+        {
+            "input": "dirt.png",
+            "output": "g_ds3.dds"
+        },
+        {
+            "input": "dirt.png",
+            "output": "g_ds4.dds"
+        },
+        {
+            "input": "dirt.png",
+            "output": "g_gr4.dds"
+        },
+        {
+            "input": "dirt.png",
+            "output": "g_gr5.dds"
+        },
+        {
+            "input": "farmland_moist.png",
+            "output": "g_fm1.dds"
+        },
+        {
+            "input": "farmland.png",
+            "output": "g_fc1.dds"
+        },
+        {
+            "input": "farmland_moist.png",
+            "output": "g_fc2.dds"
+        },
+        {
+            "input": "farmland_moist.png",
+            "output": "g_fc3.dds"
+        },
+        {
+            "input": "farmland.png",
+            "output": "g_fm2.dds"
+        },
+        {
+            "input": "grass.png",
+            "output": "g_grs.dds"
+        },
+        {
+            "input": "grass.png",
+            "output": "g_gr2.dds"
+        },
+        {
+            "input": "grass.png",
+            "output": "g_gr3.dds"
+        },
+        {
+            "input": "grass.png",
+            "output": "g_gr7.dds"
+        },
+        {
+            "input": "grass.png",
+            "output": "g_ds2.dds"
+        },
+        {
+            "input": "grass.png",
+            "output": "g_gr6.dds"
+        },
+        {
+            "input": "grass.png",
+            "output": "g_gr6.dds"
+        },
+        {
+            "input": "grass.png",
+            "output": "g_grs.dds"
+        },
+        {
+            "input": "gravel.png",
+            "output": "g_gravel_default.dds"
+        },
+        {
+            "input": "gravel.png",
+            "output": "g_ds5.dds"
+        },
+        {
+            "input": "ice.png",
+            "output": "g_ice.dds"
+        },
+        {
+            "input": "ice.png",
+            "output": "g_ice.dds"
+        },
+        {
+            "input": "farmland_moist.png",
+            "output": "g_rm1.dds"
+        },
+        {
+            "input": "farmland.png",
+            "output": "g_rc1.dds"
+        },
+        {
+            "input": "farmland_moist.png",
+            "output": "g_rc2.dds"
+        },
+        {
+            "input": "farmland_moist.png",
+            "output": "g_rc3.dds"
+        },
+        {
+            "input": "farmland.png",
+            "output": "g_rm2.dds"
+        },
+        {
+            "input": "cobblestone.png",
+            "output": "g_rd1.dds"
+        },
+        {
+            "input": "cobblestone.png",
+            "output": "g_rd2.dds"
+        },
+        {
+            "input": "cobblestone.png",
+            "output": "g_sr2.dds"
+        },
+        {
+            "input": "cobblestone.png",
+            "output": "g_rd5.dds"
+        },
+        {
+            "input": "cobblestone.png",
+            "output": "g_rck.dds"
+        },
+        {
+            "input": "shallow.png",
+            "output": "g_sha.dds"
+        },
+        {
+            "input": "shallow.png",
+            "output": "g_sh2.dds"
+        },
+        {
+            "input": "shallow.png",
+            "output": "g_sh3.dds"
+        },
+        {
+            "input": "snow.png",
+            "output": "g_sno.dds"
+        },
+        {
+            "input": "snow.png",
+            "output": "g_snd.dds"
+        },
+        {
+            "input": "snow.png",
+            "output": "g_sno.dds"
+        },
+        {
+            "input": "snow.png",
+            "output": "g_sno.dds"
+        },
+        {
+            "input": "grass.png",
+            "output": "g_qs2.dds"
+        },
+        {
+            "input": "grass.png",
+            "output": "g_sh4.dds"
+        },
+        {
+            "input": "brush.png",
+            "output": "g_for.dds"
+        },
+        {
+            "input": "brush.png",
+            "output": "g_fo2.dds"
+        },
+        {
+            "input": "brush.png",
+            "output": "g_underbrush_leaves.dds"
+        },
+        {
+            "input": "brush.png",
+            "output": "g_snf.dds"
+        },
+        {
+            "input": "deep.png",
+            "output": "g_wtr.dds"
+        },
+        {
+            "input": "deep.png",
+            "output": "g_wtr.dds"
+        },
+        {
+            "input": "deep.png",
+            "output": "g_wt5.dds"
+        },
+        {
+            "input": "deep.png",
+            "output": "g_wt_brown.dds"
+        },
+        {
+            "input": "deep.png",
+            "output": "g_wt2.dds"
+        },
+        {
+            "input": "deep.png",
+            "output": "g_wt4.dds"
+        },
+        {
+            "input": "deep.png",
+            "output": "g_wt_green.dds"
+        },
+        {
+            "input": "deep.png",
+            "output": "g_wt3.dds"
+        },
+        {
+            "input": "shallow.png",
+            "output": "g_wtr.dds"
+        }
+    ]
+}
+    
